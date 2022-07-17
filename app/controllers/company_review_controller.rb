@@ -1,0 +1,2 @@
+class CompanyReviewController < ApplicationController
+end
